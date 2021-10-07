@@ -1,10 +1,10 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: NP-QN
+repo: status.quicknetwork.ga
 
 sites:
-  - name: Google
-    url: https://www.google.com
+  - name: Quick Network
+    url: https://quicknetwork.ga
   - name: Wikipedia
     url: https://en.wikipedia.org
   - name: Hacker News
@@ -17,10 +17,10 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /status.quicknetwork.ga
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Up-Time
-  introTitle: "Check the uptime for all the **Quick Advertising Bots**."
-  introMessage: "This website shows the uptime of all the bots that quick advertising owns. You can also see planned maintenance for the bots here!"
+  logoUrl: https://d1csarkz8obe9u.cloudfront.net/posterpreviews/testing-logo-design-template-ce84480d61b3db9a8e1522a99875832f_screen.jpg
+  name: Quick-Uptime
+  introTitle: "Check the uptime for Quick Network"
+  introMessage: "This website shows the uptime for all Quick Network technlogogies!"
   navbar:
     - title: Status
       href: /status.quicknetwork.ga/
