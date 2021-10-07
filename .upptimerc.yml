@@ -16,14 +16,15 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
-  baseUrl: /status.quicknetwork.ga
+  cname: beta.status.quicknetwork.ga
+  baseUrl: beta.status.quicknetwork.ga
   logoUrl: https://d1csarkz8obe9u.cloudfront.net/posterpreviews/testing-logo-design-template-ce84480d61b3db9a8e1522a99875832f_screen.jpg
   name: Quick-Uptime
   introTitle: "Check the uptime for Quick Network"
   introMessage: "This website shows the uptime for all Quick Network technlogogies!"
   navbar:
     - title: Status
-      href: /status.quicknetwork.ga/
+      href: status.quicknetwork.ga/
     - title: Discord
       href: https://discord.gg/c4WY6RFnjE
 
